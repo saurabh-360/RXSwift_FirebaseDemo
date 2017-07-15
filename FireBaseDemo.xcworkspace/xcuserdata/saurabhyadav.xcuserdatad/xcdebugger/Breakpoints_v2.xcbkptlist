@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FireBaseDemo/DoctorStatsAndProfile/ViewModel/DSPViewModel.swift"
+            timestampString = "521814720.513622"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "init(doctorID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FireBaseDemo/DoctorStatsAndProfile/ViewModel/DSPViewModel.swift"
+            timestampString = "521814720.513622"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "init(doctorID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.DSPViewModel.(init (doctorID : Swift.String) -&gt; FireBaseDemo.DSPViewModel).(closure #3)"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhyadav/Desktop/hackerearth/Reactivesssss/FireBaseDemo/FireBaseDemo/DoctorStatsAndProfile/ViewModel/DSPViewModel.swift"
+                  timestampString = "521814798.11901"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "554">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FireBaseDemo.DSPViewModel.(init (doctorID : Swift.String) -&gt; FireBaseDemo.DSPViewModel).(closure #3).(implicit closure #1)"
+                  moduleName = "FireBaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhyadav/Desktop/hackerearth/Reactivesssss/FireBaseDemo/FireBaseDemo/DoctorStatsAndProfile/ViewModel/DSPViewModel.swift"
+                  timestampString = "521814798.122072"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FireBaseDemo/DoctorStatsAndProfile/ViewModel/DSPViewModel.swift"
+            timestampString = "521814720.513622"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "init(doctorID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
